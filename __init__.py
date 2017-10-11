@@ -1,4 +1,4 @@
- # @author Jaden Foldesi
+ # @author Jaden Foldesi <flodesi57@gmail.com>
  #
  # This is a quick program that will
  # convert any sentence into pig latin.
